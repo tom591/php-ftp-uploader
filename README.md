@@ -1,4 +1,4 @@
-# 📂 PHP-FTP-Uploader  
+# 📂 php-ftp-uploader
 by Tom Salaj
 
 [![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-blue?logo=php)](https://www.php.net/)
